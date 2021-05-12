@@ -33,7 +33,7 @@ JavaEditionのマイクラやってます。
 Hypixelではベッドウォーズやスカイブロックを主にやっていますが、ガチ勢では無いのでご注意ください。  
   
 一応[KUN](https://youtube.com/c/KUN1234)のにわかキッズです。  
-推しキッズは[かめすたさん](https://github.com/Kamesuta)だったりします。  
+推しキッズは[Bunさん](https://github.com/Bun133)だったりします。  
 
 ## アカウント
 
