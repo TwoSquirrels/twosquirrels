@@ -1,17 +1,10 @@
 <img src="./img/header.png" width="100%" />
 
-<details>
-  <summary><b>English README</b></summary>
-  <div>
-    in preparation
-  </div>
-</details><br />
-
 # 自己紹介
 
 高１の `りすりす/Twosquirrels` です。  
 よろしくお願いします。  
-  
+
 プログラミング言語は
 
 - C言語
@@ -19,23 +12,62 @@
 - JavaScript
 - Java
 - Brainfu*k
-  (ABCのA問題の一部が解ける程度)
+  ([ABC](https://atcoder.jp/)のA問題の一部が解ける程度)
 - LuaScript
   (言語仕様を簡単に理解しただけ)
 - Python
   (言語仕様を簡単に理解しただけ)
 
 が使えます。  
+Rustを習得中です。
 ゲーム作ったりWebサービス(サイト)作れます。  
-  
+
 JavaEditionのマイクラやってます。  
 コマンドがある程度でき、プラグインも作れます。MODはいつか挑戦してみようと思っています。  
 Hypixelではベッドウォーズやスカイブロックを主にやっていますが、ガチ勢では無いのでご注意ください。  
-  
-一応[KUN](https://youtube.com/c/KUN1234)のにわかキッズです。  
-推しキッズは[Bunさん](https://github.com/Bun133)だったりします。  
 
-## アカウント
+ここに書くもんじゃないと思いますが一応、、、
+Youtuber[KUN](https://youtube.com/c/KUN1234)のにわかキッズです。  
+推しキッズは[Bunさん](https://github.com/Bun133)です。  
+
+<br /><details>
+
+  <summary><b>About Me on English</b></summary>
+
+  ```markdown
+
+    My name is `りすりす/TwoSquirrels`.  
+    I'm a freshman in high school.  
+    I'm Japanese.  
+
+    List of programming languages I can use:  
+
+    - C language
+    - C++
+    - JavaScript
+    - Java
+    - Brainfu*k
+        (I can solve some of the A problems of [ABC](https://atcoder.jp/))
+    - LuaScript
+        (just a simple understanding of the language specification)
+    - Python
+        (just a simple understanding of the language specification)
+
+    I'm learning Rust.  
+    I can make games and web services (websites).  
+
+    I have Minecraft Java Edition.  
+    I can make some commands and plugins, and I'm planning to try modding someday.  
+    On Hypixel, I mainly play BedWars and Skyblock.  
+    However, please understand that I'm not a very experienced Hypixel player.  
+
+    Thank you for taking the time to read my introduction ;)  
+
+  ```
+
+</details><br />
+
+## Accounts アカウント
 
 - Twitter:
   [@TwoSquirrels](https://twitter.com/twosquirrles)
@@ -46,7 +78,7 @@ Hypixelではベッドウォーズやスカイブロックを主にやってい�
 - Minecraft:
   TwoSquirrels [NameMC](https://namemc.com/profile/twosquirrels.1)
 
-## その他
+## Other その他
 
 - Website: [製作予定] [りすりすの巣](https://twosquirrels.github.io/)
 - Birthday: 3/19
