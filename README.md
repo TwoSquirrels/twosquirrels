@@ -1,7 +1,11 @@
 <img src="./img/header.png" width="100%" />
 
-![りすりす/TwoSquirrels' GitHub Stats](https://github-readme-stats.vercel.app/api?username=TwoSquirrels&count_private=true&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TwoSquirrels)
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=TwoSquirrels&count_private=true&show_icons=true" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwoSquirrels" />
+
+---
 
 # 自己紹介
 
@@ -29,8 +33,8 @@ JavaEditionのマイクラやってます。
 コマンドがある程度でき、プラグインも作れます。MODはいつか挑戦してみようと思っています。  
 Hypixelではベッドウォーズやスカイブロックを主にやっていますが、ガチ勢では無いのでご注意ください。  
 
-ここに書くもんじゃないと思いますが一応、、、
-Youtuber[KUN](https://youtube.com/c/KUN1234)のにわかキッズです。  
+ここに書くもんじゃないと思いますが一応、、、  
+Youtuber[ KUN ](https://youtube.com/c/KUN1234)のにわかキッズです。  
 推しキッズは[Bunさん](https://github.com/Bun133)です。  
 
 <br /><details>
