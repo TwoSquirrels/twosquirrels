@@ -1,5 +1,8 @@
 <img src="./img/header.png" width="100%" />
 
+![りすりす/TwoSquirrels' GitHub Stats](https://github-readme-stats.vercel.app/api?username=TwoSquirrels&count_private=true&show_icons=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TwoSquirrels)
+
 # 自己紹介
 
 高１の `りすりす/Twosquirrels` です。  
