@@ -44,6 +44,7 @@ Hypixelではベッドウォーズやスカイブロックを主にやってい�
 ここに書くもんじゃないと思いますが一応自己紹介ということで、、、  
 Youtuber[ KUN ](https://youtube.com/c/KUN1234)のにわかキッズです。  
 推しキッズは[Bunさん](https://github.com/Bun133)です。  
+推しラボ勢は[Peyangさん](https://github.com/Peyang)など......
 
 <br /><details>
 
