@@ -85,6 +85,9 @@ Youtuber[ KUN ](https://youtube.com/c/KUN1234)のにわかキッズです。
 
 ## Accounts アカウント
 
+- Gmail:
+  RisuRisu!TwoSquirrels?gmail!com  
+  (`!`->`.`,`?`->`@`)
 - Twitter:
   [@TwoSquirrels](https://twitter.com/twosquirrles)
 - Discord:
