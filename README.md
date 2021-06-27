@@ -91,7 +91,7 @@ Youtuber[ KUN ](https://youtube.com/c/KUN1234)のにわかキッズです。
 - Twitter:
   [@TwoSquirrels](https://twitter.com/twosquirrels)
 - Discord:
-  @りすりす/TwoSquirrels#9940
+  [@りすりす/TwoSquirrels#9940](https://discord.com/users/498452350663655424)
 - Github:
   [TwoSquirrels](https://github.com/TwoSquirrels)
 - Minecraft:
