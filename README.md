@@ -22,19 +22,20 @@ mdtype: 'GitHub'
 
 プログラミング言語は
 
-- C言語
-- C++
+- C/C++
 - JavaScript
-- Java
 - Brainfu*k
-  ([ABC](https://atcoder.jp/)のA問題の一部が解ける程度)
+    ([ABC](https://atcoder.jp/)のA問題の一部が解ける程度)
 - LuaScript
-  (言語仕様を簡単に理解しただけ)
+    (言語仕様を簡単に理解しただけ)
+- Java
 - Python
-  (言語仕様を簡単に理解しただけ)
+    (言語仕様を簡単に理解しただけ)
+- Rust
+    (言語仕様を簡単に理解しただけ)
+- TypeScript
 
-が使えます。  
-Rustを習得中です。
+が使えます。Pythonは嫌いです。  
 ゲーム作ったりWebサービス(サイト)作れます。  
 
 JavaEditionのマイクラやってます。  
@@ -58,18 +59,20 @@ Youtuber[ KUN ](https://youtube.com/c/KUN1234)のにわかキッズです。
 
     List of programming languages I can use:  
 
-    - C language
-    - C++
+    - C/C++
     - JavaScript
-    - Java
     - Brainfu*k
         (I can solve some of the A problems of [ABC](https://atcoder.jp/))
     - LuaScript
         (just a simple understanding of the language specification)
+    - Java
     - Python
         (just a simple understanding of the language specification)
+    - Rust
+        (just a simple understanding of the language specification)
+    - TypeScript
 
-    I'm learning Rust.  
+    I hate Python.  
     I can make games and web services (websites).  
 
     I have Minecraft Java Edition.  
