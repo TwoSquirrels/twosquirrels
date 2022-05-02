@@ -51,7 +51,7 @@ Hypixelではベッドウォーズやスカイブロックを主にやってい�
   ```markdown
 
     My name is `りすりす/TwoSquirrels`.  
-    I'm a sophomore.  
+    I'm a sophomore in high school.  
     I'm Japanese.  
 
     List of programming languages I can use:  
