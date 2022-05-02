@@ -17,7 +17,7 @@ mdtype: 'GitHub'
 
 # 自己紹介
 
-高１の `りすりす/Twosquirrels` です。  
+高２の `りすりす/Twosquirrels` です。  
 よろしくお願いします。  
 
 プログラミング言語は
@@ -51,7 +51,7 @@ Hypixelではベッドウォーズやスカイブロックを主にやってい�
   ```markdown
 
     My name is `りすりす/TwoSquirrels`.  
-    I'm a freshman in high school.  
+    I'm a sophomore.  
     I'm Japanese.  
 
     List of programming languages I can use:  
