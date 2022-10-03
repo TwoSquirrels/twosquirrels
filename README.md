@@ -10,7 +10,7 @@
 # TwoSquirrels' Profile
 
 ```yaml
-/home/twosquirrels # cat my-profile.yaml
+~/source/twosquirrels $ cat my-profile.yaml
 name: りすりす/TwoSquirrels
 age: 16
 birthday: 03/19
@@ -43,5 +43,5 @@ accounts:
   Discord: `@りすりす/TwoSquirrels#9940`
   Minecraft: `TwoSquirrels`
 last-update: 2022/10/03
-/home/twosquirrels #
+~/source/twosquirrels $
 ```
