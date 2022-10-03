@@ -33,6 +33,11 @@ programming:
     Nim: 糖衣構文が甘くておいしい。最近使い始めた。
     Brainf*ck: 時間をかければある程度は扱えるつもり。
     LuaScript: 昔ちょっとだけ触れたけどもう忘れた。
+  editors:
+    - Visual Studio
+    - Visual Studio Code
+    - IntelliJ IDEA Ultimate
+    - Emacs
   others:
     - C++ の OpenSiv3D でゲーム作ったりしてる。
     - Next.js の SSG でサイト作って Cloudflare Pages でホスティングするのが個人でのサイト制作の最強法だと思ってる。
@@ -42,6 +47,6 @@ accounts:
   Twitter: `@TwoSquirrels`
   Discord: `@りすりす/TwoSquirrels#9940`
   Minecraft: `TwoSquirrels`
-last-update: 2022/10/03
+updated-at: 2022/10/04
 ~/source/twosquirrels $
 ```
