@@ -9,7 +9,7 @@
 
 # TwoSquirrels' Profile
 
-```json
+```yaml
 /home/twosquirrels # cat my-profile.yaml
 name: りすりす/TwoSquirrels
 age: 16
