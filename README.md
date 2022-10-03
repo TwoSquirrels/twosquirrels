@@ -1,11 +1,3 @@
-<!---
-tags: ['README', 'Self-Introduction', 'AboutMe']
-date: 30 Mar
-author: 'TwoSquirrels'
-title: 'プロフィール'
-mdtype: 'GitHub'
---->
-
 <img src="./img/header.png" width="100%" />
 
 ---
@@ -15,93 +7,41 @@ mdtype: 'GitHub'
 
 ---
 
-# 自己紹介
+# TwoSquirrels' Profile
 
-高２の `りすりす/Twosquirrels` です。  
-よろしくお願いします。  
-
-プログラミング言語は
-
-- C/C++
-- JavaScript
-- Brainfu*k
-    ([ABC](https://atcoder.jp/)のA問題の一部が解ける程度)
-- LuaScript
-    (言語仕様を簡単に理解しただけ)
-- Java
-- Python
-    (言語仕様を簡単に理解しただけ)
-- Rust
-    (言語仕様を簡単に理解しただけ)
-- TypeScript
-
-が使えます。Pythonは嫌いです。  
-ゲーム作ったりWebサービス(サイト)作れます。  
-
-JavaEditionのマイクラやってます。  
-コマンドがある程度でき、プラグインも作れます。MODはいつか挑戦してみようと思っています。  
-Hypixelではベッドウォーズやスカイブロックを主にやっていますが、ガチ勢では無いのでご注意ください。  
-
-尊敬→ [Peyangさん](https://github.com/Peyang-Celeron)
-
-<br /><details>
-
-  <summary><b>About Me on English</b></summary>
-
-  ```markdown
-
-    My name is `りすりす/TwoSquirrels`.  
-    I'm a sophomore in high school.  
-    I'm Japanese.  
-
-    List of programming languages I can use:  
-
-    - C/C++
-    - JavaScript
-    - Brainfu*k
-        (I can solve some of the A problems of [ABC](https://atcoder.jp/))
-    - LuaScript
-        (just a simple understanding of the language specification)
-    - Java
-    - Python
-        (just a simple understanding of the language specification)
-    - Rust
-        (just a simple understanding of the language specification)
-    - TypeScript
-
-    I hate Python.  
-    I can make games and web services (websites).  
-
-    I have Minecraft Java Edition.  
-    I can make some commands and plugins, and I'm planning to try modding someday.  
-    On Hypixel, I mainly play BedWars and Skyblock.  
-    However, please understand that I'm not a very experienced Hypixel player.  
-
-    Thank you for taking the time to read my introduction ;)  
-
-  ```
-
-</details><br />
-
-## Accounts アカウント
-
-- Gmail:
-  RisuRisu!TwoSquirrels?gmail!com  
-  (`!`->`.`,`?`->`@`)
-- Twitter:
-  [@TwoSquirrels](https://twitter.com/twosquirrels)
-- Discord:
-  [@りすりす/TwoSquirrels#9940](https://discord.com/users/498452350663655424)
-- Github:
-  [TwoSquirrels](https://github.com/TwoSquirrels)
-- Minecraft:
-  TwoSquirrels [NameMC](https://namemc.com/profile/twosquirrels.1)
-
-## Other その他
-
-- Website: [製作予定] [りすりすの巣](https://twosquirrels.github.io/)
-- Birthday: 3/19
-
-# 後日追加予定
-
-たぶん作品とかのリンクが貼られる
+```json
+/home/twosquirrels # cat my-profile.yaml
+name: りすりす/TwoSquirrels
+age: 16
+birthday: 03/19
+hobbies:
+  - programming
+  - watching animes
+  - (drawing degital illustrations)
+programming:
+  languages:
+    C: 初めてのプログラミング言語。ある程度は使える。
+    C++: そこそこ好きな言語。ゲーム制作や競技プログラミングで使う。SFINAE は知らん。
+    Java: マイクラのプラグイン制作で使ってた。ある程度は使える。
+    Kotlin: Java の代わりとして重宝してる。ある程度は使える。
+    Python: ちょっとだけ使ったことはあるけど嫌いだから使いたくない。
+    PHP: 使ったことはないけどコード見ただけで使いたくないって思う。
+    JavaScript: 面白い言語だと思ってる。Node.js の REPL は万能ツールとしてよく使ってる。
+    TypeScript: ある程度は使える。最近はあまり触っていない。
+    Rust: ちょっとだけ触ったことはあるけど苦手意識ある。使いこなせるようになりたい。
+    Go: 触ったことはないけどいつか使ってみたい。
+    Nim: 糖衣構文が甘くておいしい。最近使い始めた。
+    Brainf*ck: 時間をかければある程度は扱えるつもり。
+    LuaScript: 昔ちょっとだけ触れたけどもう忘れた。
+  others:
+    - C++ の OpenSiv3D でゲーム作ったりしてる。
+    - Next.js の SSG でサイト作って Cloudflare Pages でホスティングするのが個人でのサイト制作の最強法だと思ってる。
+    - AtCoder はとりあえず緑までは行けたが停滞中。
+accounts:
+  Email: `RisuRisu.TwoSquirrels gmail.com` (` ` -> `@`)
+  Twitter: `@TwoSquirrels`
+  Discord: `@りすりす/TwoSquirrels#9940`
+  Minecraft: `TwoSquirrels`
+last-update: 2022/10/03
+/home/twosquirrels #
+```
