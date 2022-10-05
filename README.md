@@ -43,10 +43,10 @@ programming:
     - Next.js の SSG でサイト作って Cloudflare Pages でホスティングするのが個人でのサイト制作の最強法だと思ってる。
     - AtCoder はとりあえず緑までは行けたが停滞中。
 accounts:
-  Email: `RisuRisu.TwoSquirrels gmail.com` (` ` -> `@`)
-  Twitter: `@TwoSquirrels`
-  Discord: `@りすりす/TwoSquirrels#9940`
-  Minecraft: `TwoSquirrels`
-updated-at: 2022/10/04
+  Email: RisuRisu.TwoSquirrels gmail.com (' ' -> '@')
+  Twitter: @TwoSquirrels
+  Discord: @りすりす/TwoSquirrels#9940
+  Minecraft: TwoSquirrels
+updated-at: 2022/10/06
 ~/source/twosquirrels $
 ```
