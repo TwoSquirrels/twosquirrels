@@ -10,7 +10,7 @@
 # TwoSquirrels' Profile
 
 ```yaml
-~/source/twosquirrels $ cat my-profile.yaml
+~/source/twosquirrels $ curl 'localhost:8080/my-profile.yaml' | bat -l yaml
 name: りすりす/TwoSquirrels
 age: 18
 birthday: 03/19
@@ -51,6 +51,7 @@ accounts:
     - @TwoSquirrels@misskey.kyoupro.com
   AtCoder: TwoSquirrels
   Minecraft: TwoSquirrels
+  Genshin: 849142878
 updated-at: 2023/10/01
 ~/source/twosquirrels $
 ```
