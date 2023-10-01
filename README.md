@@ -47,7 +47,7 @@ accounts:
   Twitter: @TwoSquirrels
   Discord: @TwoSquirrels
   Misskey:
-    - @TwoSquirrels@mi.sbrx.io
+    - @TwoSquirrels@mi.cbrx.io
     - @TwoSquirrels@misskey.kyoupro.com
   AtCoder: TwoSquirrels
   Minecraft: TwoSquirrels
@@ -59,6 +59,6 @@ updated-at: 2023/10/01
 
 - [GitHub](https://github.com/TwoSquirrels)
 - [Twitter(X)](https://twitter.com/TwoSquirrels)
-- [Misskey/MAIN](https://mi.sbrx.io/@TwoSquirrels)
+- [Misskey/MAIN](https://mi.cbrx.io/@TwoSquirrels)
 - [Misskey/KYOUPRO](https://misskey.kyoupro.com/@TwoSquirrels)
 - [AtCoder](https://atcoder.jp/users/TwoSquirrels)
