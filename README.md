@@ -12,41 +12,53 @@
 ```yaml
 ~/source/twosquirrels $ cat my-profile.yaml
 name: りすりす/TwoSquirrels
-age: 16
+age: 18
 birthday: 03/19
 hobbies:
   - programming
   - watching animes
+  - reading lightnovels
   - (drawing degital illustrations)
 programming:
   languages:
     C: 初めてのプログラミング言語。ある程度は使える。
-    C++: そこそこ好きな言語。ゲーム制作や競技プログラミングで使う。SFINAE は知らん。
+    C++: 好きな言語。ゲーム制作や競技プログラミングで使う。SFINAE むずすぎ。
+    Rust: 使いこなせるようになりたい。
+    JavaScript: Node.js の REPL を万能ツールとしてよく使ってる。
+    TypeScript: ある程度は使える。型パズル大変。
     Java: マイクラのプラグイン制作で使ってた。ある程度は使える。
-    Kotlin: Java の代わりとして重宝してる。ある程度は使える。
-    Python: ちょっとだけ使ったことはあるけど嫌いだから使いたくない。
-    PHP: 使ったことはないけどコード見ただけで使いたくないって思う。
-    JavaScript: 面白い言語だと思ってる。Node.js の REPL は万能ツールとしてよく使ってる。
-    TypeScript: ある程度は使える。最近はあまり触っていない。
-    Rust: ちょっとだけ触ったことはあるけど苦手意識ある。使いこなせるようになりたい。
-    Go: 触ったことはないけどいつか使ってみたい。
-    Nim: 糖衣構文が甘くておいしい。最近使い始めた。
-    Brainf*ck: 時間をかければある程度は扱えるつもり。
-    LuaScript: 昔ちょっとだけ触れたけどもう忘れた。
+    Kotlin: Java の代わりに使いたい。
+    Nim: 糖衣構文が甘くておいしい。
+    Python: あまり使いたくない。
+    Go: いつか使ってみたい。
+    Brainf*ck: 時間かけて頑張れば少しだけ書ける。
   editors:
-    - Visual Studio
-    - Visual Studio Code
+    - CLion
     - IntelliJ IDEA Ultimate
     - Emacs
+    - Visual Studio Code
+    - Visual Studio
   others:
-    - C++ の OpenSiv3D でゲーム作ったりしてる。
-    - Next.js の SSG でサイト作って Cloudflare Pages でホスティングするのが個人でのサイト制作の最強法だと思ってる。
-    - AtCoder はとりあえず緑までは行けたが停滞中。
+    - C++ でゲーム作るなら OpenSiv3D おすすめ！
+    - SSG でサイト作るなら Next.js + Cloudflare Pages が最強！
+    - AtCoder 緑水振動中
 accounts:
   Email: RisuRisu.TwoSquirrels gmail.com (' ' -> '@')
   Twitter: @TwoSquirrels
-  Discord: @りすりす/TwoSquirrels#9940
+  Discord: @TwoSquirrels
+  Misskey:
+    - @TwoSquirrels@mi.sbrx.io
+    - @TwoSquirrels@misskey.kyoupro.com
+  AtCoder: TwoSquirrels
   Minecraft: TwoSquirrels
-updated-at: 2022/10/06
+updated-at: 2023/10/01
 ~/source/twosquirrels $
 ```
+
+## URL
+
+- [GitHub](https://github.com/TwoSquirrels)
+- [Twitter(X)](https://twitter.com/TwoSquirrels)
+- [Misskey/MAIN](https://mi.sbrx.io/@TwoSquirrels)
+- [Misskey/KYOUPRO](https://misskey.kyoupro.com/@TwoSquirrels)
+- [AtCoder](https://atcoder.jp/users/TwoSquirrels)
