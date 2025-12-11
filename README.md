@@ -1,9 +1,11 @@
+<!--
 <img src="./img/header.png" width="100%" />
 
 ---
+-->
 
 <img src="https://github-readme-stats.trap.show/api?username=TwoSquirrels&count_private=true&show_icons=true&cache=0" align="left" />
-<img src="https://github-readme-stats.trap.show/api/top-langs/?username=TwoSquirrels&cache=0" />
+<img src="https://github-readme-stats.trap.show/api/top-langs/?username=TwoSquirrels&cache=1" />
 
 ---
 
