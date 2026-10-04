@@ -1,5 +1,5 @@
-<a href="https://github.com/TwoSquirrels"><img src="https://www.nuskey.md/github-devcard/api/devcard?username=TwoSquirrels&theme=lavender&pattern=petal&layout=landscape&stats=stars,prs,issues,commits&org=traP-jp&cache=20261005_0221" alt="TwoSquirrels's GitHub DevCard" width="450" align="left"></a>
-<img src="https://github-readme-stats.trap.show/api/top-langs/?username=TwoSquirrels&theme=jolly&cache=20261005_0221" />
+<a href="https://github.com/TwoSquirrels"><img src="https://www.nuskey.md/github-devcard/api/devcard?username=TwoSquirrels&theme=lavender&pattern=petal&layout=landscape&stats=stars,prs,issues,commits&org=traP-jp&cache=20261005_0255" alt="TwoSquirrels's GitHub DevCard" width="450" align="left"></a>
+<img src="https://github-readme-stats.trap.show/api/top-langs/?username=TwoSquirrels&hide=glsl&theme=jolly&cache=20261005_0255" />
 <br clear="all" />
 
 ```yaml
