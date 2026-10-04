@@ -4,7 +4,8 @@
 
 ```yaml
 ~/source/twosquirrels $ pnpm dev > /dev/null &
-~/source/twosquirrels $ curl 'localhost:8080/my-profile.yaml' | bat -l yaml
+[1] 60319
+~/source/twosquirrels $ curl -s 'localhost:8080/my-profile.yaml' | bat -l yaml
 name: りすりす/TwoSquirrels
 birthday: 2006/03/19
 history:
@@ -41,7 +42,7 @@ programming:
   - field: Web Performance
     since: 2024
 updated-at: 2026/10/05
-~/source/twosquirrels $
+~/source/twosquirrels $ ^D
 ```
 
 ## Links
