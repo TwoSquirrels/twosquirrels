@@ -1,5 +1,5 @@
-<a href="https://github.com/TwoSquirrels"><img src="https://www.nuskey.md/github-devcard/api/devcard?username=TwoSquirrels&amp;theme=lavender&amp;pattern=petal&amp;layout=landscape&amp;stats=stars,prs,issues,commits&amp;org=traP-jp" alt="TwoSquirrels&apos;s GitHub DevCard" width="450" align="left"></a>
-<img src="https://github-readme-stats.trap.show/api/top-langs/?username=TwoSquirrels&theme=dark" />
+<a href="https://github.com/TwoSquirrels"><img src="https://www.nuskey.md/github-devcard/api/devcard?username=TwoSquirrels&theme=lavender&pattern=petal&layout=landscape&stats=stars,prs,issues,commits&org=traP-jp&cache=20261005_0145" alt="TwoSquirrels's GitHub DevCard" width="450" align="left"></a>
+<img src="https://github-readme-stats.trap.show/api/top-langs/?username=TwoSquirrels&theme=dark&cache=20261005_0145" />
 <br clear="all" />
 
 ```yaml
@@ -49,5 +49,5 @@ updated-at: 2026/10/05
 - Git: [**GitHub**](https://github.com/TwoSquirrels)
 - CP: [**AtCoder**](https://atcoder.jp/users/TwoSquirrels) / [**yukicoder**](https://yukicoder.me/users/14668)
 - Blog: [**traP**](https://trap.jp/author/TwoSquirrels) / [Qiita](https://qiita.com/TwoSquirrels) / [Zenn](https://zenn.dev/twosquirrels)
-- SNS: [**Xwitter**](https://twitter.com/TwoSquirrels) / [Xwitter (Graphics)](https://twitter.com/risquirrels) / [Misskey (さいばれすきー)](https://mi.cbrx.io/@TwoSquirrels) / [Misskey (Misskey.io)](https://misskey.io/@TwoSquirrels) / [Misskey (競プロ鯖)](https://misskey.kyoupro.com/@TwoSquirrels) / [Misskey (にりらみすきー部)](https://misskey.niri.la/@TwoSquirrels) /
+- SNS: [**Xwitter**](https://twitter.com/TwoSquirrels) / [Xwitter (Graphics)](https://twitter.com/risquirrels) / [Misskey (さいばれすきー)](https://mi.cbrx.io/@TwoSquirrels) / [Misskey (Misskey.io)](https://misskey.io/@TwoSquirrels) / [Misskey (競プロ鯖)](https://misskey.kyoupro.com/@TwoSquirrels) / [Misskey (にりらみすきー部)](https://misskey.niri.la/@TwoSquirrels)
 - Chat: [Discord](https://discord.com/users/498452350663655424) / [VRChat](https://vrchat.com/home/user/usr_5bdf35f4-b5c3-4b1d-bcfb-3817ec1b78f8)
